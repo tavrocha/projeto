@@ -1,2 +1,3 @@
 const n = 'mercado-pago'
-console.log(n)
+const p = 'pagamento'
+console.log(n, p)
