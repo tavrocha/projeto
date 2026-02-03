@@ -1,0 +1,25 @@
+body {
+  background: #ffffff;
+}
+h1 {
+  color: #333333;
+}
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+button {
+  background-color: #008cba;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
